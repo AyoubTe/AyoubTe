@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AyoubTe
-- 👀 I’m interested in Web developpement and software developpement
+- 👋 Hi, I’m @AyoubTe, software enginnering student
+- 👀 I’m interested in Web developement and software developement
 - 🌱 I’m currently learning Html, Css, Java and C.
 - 💞️ I’m looking to collaborate on softwtare develloppment
 - 📫 How to reach me through twitter

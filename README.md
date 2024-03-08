@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyoubTe, software enginnering student
 - 👀 I’m interested in Web developement and software developement
-- 🌱 I’m currently learning Html, Css, Java and C.
+- 🌱 I’m currently learning Spring Boot and Angular.
 - 💞️ I’m looking to collaborate on softwtare development
 - 📫 You can reach me through twitter or email : sami.ayoub.in@gmail.com
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AyoubTe, software enginnering student
-- 👀 I’m interested in Web developement and software developement
-- 🌱 I’m currently learning Spring Boot and Angular.
-- 💞️ I’m looking to collaborate on softwtare development
+- 👋 Hi, I’m @AyoubTe, Computer Science and Telecommunication enginnering student
+- 👀 I’m interested in CyberSecurity and Hacking Technics
+- 🌱 I’m currently learning hacking technics and SOC
+- 💞️ I’m looking to collaborate on such innovative projetcs
 - 📫 You can reach me through twitter or email : sami.ayoub.in@gmail.com
 
 <!---

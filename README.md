@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity and Hacking Technics
 - 🌱 I’m currently learning hacking technics and SOC
 - 💞️ I’m looking to collaborate on such innovative projetcs
-- 📫 You can reach me through twitter or email : sami.ayoub.in@gmail.com
+- 📫 You can reach me through linkedin: https://www.linkedin.com/in/aysami
 
 <!---
 AyoubTe/AyoubTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
